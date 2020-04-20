@@ -1,0 +1,13 @@
+Package: com.eng3obth.ISTEC1.7.3
+Version: 1.7.3
+Architecture: iphoneos-arm
+Maintainer: Eng3OBTH <Eng3OBTH@gmail.com>
+Filename: /ISTEC1.7.3.deb
+Size: 889,808
+MD5sum: 9618a3750a38dc5aad7dc194a64a59a6
+SHA1: 6891388da4c91a8cfb0ba1f45f81e217c1e6ae9d
+SHA256: ec3edda56685289e0d649d8d967f31e27a6c6ea870bca068bce4b54d10b280ae
+Section: SS Tools
+Description: Use it without any bypass tools
+Author: Gangsta
+Name: Gangsta
